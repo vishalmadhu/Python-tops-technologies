@@ -1,7 +1,7 @@
-a = int(input("Enter A:"))
-b = int(input("Enter B:"))
+a = int(input("Enter The Number: "))
+
 if a%2==0:
-    print("A is even number")
+    print("The Number is Even")
 else:
-    print("B is odd number")
+    print("The Number is odd")
     
