@@ -2,7 +2,7 @@
 
 a=int(input("enter number A: "))
 b=int(input("enter number B: "))
-
+temp=0
 temp= a
 a = b
 b= temp
