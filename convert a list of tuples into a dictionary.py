@@ -1,3 +1,3 @@
-l=[('key1',2),('key4',5)]
+l=[('key1',2),('key2',3)]
 d=dict(l)
 print(d)
